@@ -45,7 +45,7 @@
 		"http-server": "^14.1.1",
 		"idb": "^7.1.1",
 		"js-sha256": "^0.10.1",
-		"katex": "^0.16.9",
+		"katex": "^0.16.10",
 		"marked": "^9.1.0",
 		"svelte-french-toast": "^1.2.0",
 		"uuid": "^9.0.1"
